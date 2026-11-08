@@ -1,3 +1,11 @@
+*.nuid.nmrodam.com
+*.trk.sensic.net
+cdn-gl.nmrodam.com
+de-config-preproduction.sensic.net
+de1preprod-s2s.sensic.net
+scheduler.hbbtv.smartclip.net
+secure-eu.nmrodam.com
+tr.technical-service.net
 *.alphonso.tv
 *.lgsmartad.com
 ad.lgappstv.com
